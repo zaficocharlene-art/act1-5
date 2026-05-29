@@ -1,6 +1,9 @@
 Student Name: Charlene B. Zafico
+
 Course & Section: BSIT-3B
+
 Subject Name: SIA 2
+
 Description of the repository
 
 
@@ -18,5 +21,5 @@ Activity 4 –Lost and found system
  This activity involves developing a Lost and Found System that helps users report, search for, and recover lost items. The system allows users to submit details of lost or found belongings, making it easier to match items with their rightful owners and improve item recovery within a community or organization.
  
 Activity 5 –integration app
- his activity involves developing an Integration App that connects and exchanges data between different systems or applications. The project demonstrates how multiple technologies can work together to improve efficiency, automate processes, and provide seamless communication between platforms.
+ This activity involves developing an Integration App that connects and exchanges data between different systems or applications. The project demonstrates how multiple technologies can work together to improve efficiency, automate processes, and provide seamless communication between platforms.
  
